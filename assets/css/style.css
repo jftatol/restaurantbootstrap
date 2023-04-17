@@ -73,3 +73,11 @@
     /*overflow-y: auto;*/
     overflow: auto;
   }
+
+  #carouselExampleControls {
+    height: 500px;
+  }
+  
+  .img-vert {
+    height: 505px !important;
+  }
